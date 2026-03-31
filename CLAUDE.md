@@ -29,7 +29,7 @@ brakeman
 
 ## Architecture
 
-VSLS Server is a Rails 8 app that manages **floating network licenses** for VSLS desktop applications and **compiles program descriptions** for those applications.
+License Server is a Rails 8 app that manages **floating network licenses** for desktop applications and **compiles program descriptions** for those applications.
 
 ### Core Domain
 
